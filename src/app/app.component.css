@@ -1,3 +1,8 @@
 h3{
-color: coral;
+color: rgb(11, 9, 153);
+}
+body {background-color: coral;}
+
+div {
+    background-color: rgb(207, 239, 241);
 }
